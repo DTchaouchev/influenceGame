@@ -1,0 +1,16 @@
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/armadillo.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/test.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/edit_cache.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/rebuild_cache.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/list_install_components.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/install.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/install/local.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/CMakeFiles/install/strip.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/smoke_test.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/test.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/edit_cache.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/rebuild_cache.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/list_install_components.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/install.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/install/local.dir
+/Users/denistchaouchev/Dropbox/ECON 284/code/armadillo-12.8.4/tests1/CMakeFiles/install/strip.dir
