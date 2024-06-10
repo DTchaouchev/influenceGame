@@ -1,6 +1,7 @@
 #include<cstdio>
 #include "influenceGame.h"
 
+// pass network size as argument
 int main(int argc, char* argv[]) {
     // testing constructor and network declaration
     std::cout << "Testing constructor and random network generation" << std::endl;
@@ -11,12 +12,12 @@ int main(int argc, char* argv[]) {
     std::cout << testNet.network << std::endl;
 
     //testing distance computation 
-    //std::cout << "Testing distance computation" << std::endl;
+    std::cout << "Testing distance computation" << std::endl;
     testNet.computeDistances();
     std::cout << testNet.distanceMat << std::endl;
 
     // test payoff matrix 
-    //std::cout << "Testing payoff matrix computation" << std::endl;
+    std::cout << "Testing payoff matrix computation" << std::endl;
     testNet.constructPayoffMatrix();
     std::cout << testNet.payoffMat << std::endl;
 
@@ -33,9 +34,6 @@ int main(int argc, char* argv[]) {
 
     testNet.computeCloseness();
     std::cout << "Closeness centrality of all nodes: " << testNet.closeness << std::endl;
-
-    std::cout << "Degree of all nodes: " << std::endl;
-    testNet.computeDegree();
 
     return 0;
 }

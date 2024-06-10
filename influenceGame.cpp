@@ -70,7 +70,6 @@ void makeConnected(arma::Mat<int> &graph) {
 }
 
 // helper to verify if graph is now connected
-/*
 bool verifyConnected(arma::Mat<int> &graph) {
     std::set<int> visited; 
     std::stack<int> neighbors; 
@@ -97,7 +96,6 @@ bool verifyConnected(arma::Mat<int> &graph) {
 
     return true;
 }
-*/
 
 void influenceGame::generateRandomNetwork(double prob) {
     network = arma::Mat<int>(n, n);
